@@ -15,9 +15,9 @@
 
 ## 🗂 File Structure of the VulnScan Program   
 
-2567-2-cs403-final-submission-67-1_32_wlr-r1/
-├── demo
-    └── 67-2_CS403_67-1_32_wlr-r1_demo.mp4 # Demonstrating the installation of the tool
+- 2567-2-cs403-final-submission-67-1_32_wlr-r1/
+- ├── demo
+    -└── 67-2_CS403_67-1_32_wlr-r1_demo.mp4 # Demonstrating the installation of the tool
 ├── final_reports
     ├── 67-2_CS403_67-1_32_wlr-r1.pdf # Final report file
     ├── 67-2_CS403_67-1_32_wlr-r1_abstract_en.txt # English abstract file
@@ -31,7 +31,7 @@
 
 # VulnScan - Debian-based Automated Web Server Vulnerability Scanner
 
-VulnScan is a Multi-tool lightweight and extensible automated vulnerability scanner for websites. It aggregates results from well-known tools like `nmap`, `nikto`, `uniscan`, `wapiti`, `gobuster`, `lbd`, and more to detect common web vulnerabilities with clear categorization, severity scoring, and comprehensive reporting (including HTML and TXT formats).
+VulnScan is a Multi-tool, lightweight, and extensible automated vulnerability scanner for websites. It aggregates results from well-known tools like `nmap`, `nikto`, `uniscan`, `wapiti`, `gobuster`, `lbd`, and more to detect common web vulnerabilities with clear categorization, severity scoring, and comprehensive reporting (including HTML and TXT formats).
 
 ---
 
