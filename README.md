@@ -11,7 +11,7 @@
 **ผู้จัดทำโครงงาน:** 
 1. นายนพพร ชมภูโคตร  6409680011  nopporn.cho@dome.tu.ac.th
    
-# VulnScan - Automated Web Server Vulnerability Scanner
+# VulnScan - Debian-based Automated Web Server Vulnerability Scanner
 
 VulnScan is a Multi-tool lightweight and extensible automated vulnerability scanner for websites. It aggregates results from well-known tools like `nmap`, `nikto`, `uniscan`, `wapiti`, `gobuster`, `lbd`, and more to detect common web vulnerabilities with clear categorization, severity scoring, and comprehensive reporting (including HTML and TXT formats).
 
