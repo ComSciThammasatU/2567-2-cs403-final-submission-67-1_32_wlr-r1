@@ -18,13 +18,13 @@
 ```
  2567-2-cs403-final-submission-67-1_32_wlr-r1/
 ├── demo
-|   └── 67-2_CS403_67-1_32_wlr-r1_demo.mp4 # Demonstrating the installation of the tool
+    └── 67-2_CS403_67-1_32_wlr-r1_demo.mp4 # Demonstrating the installation of the tool
 ├── final_reports
-|   ├── 67-2_CS403_67-1_32_wlr-r1.pdf # Final report file
-|   ├── 67-2_CS403_67-1_32_wlr-r1_abstract_en.txt # English abstract file
-|   └── 67-2_CS403_67-1_32_wlr-r1_abstract_th.txt # Thai abstract file
+    ├── 67-2_CS403_67-1_32_wlr-r1.pdf # Final report file
+    ├── 67-2_CS403_67-1_32_wlr-r1_abstract_en.txt # English abstract file
+    └── 67-2_CS403_67-1_32_wlr-r1_abstract_th.txt # Thai abstract file
 ├── scan_reports/ # Folder containing all scan result outputs
-|   └── logo.png
+    └── logo.png
 ├── README.md # Project documentation
 └── scanner.py # Main script to perform vulnerability scans
 ```
