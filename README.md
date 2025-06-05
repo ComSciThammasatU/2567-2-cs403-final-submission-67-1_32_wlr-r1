@@ -31,7 +31,8 @@ VulnScan is a Multi-tool lightweight and extensible automated vulnerability scan
 ## ⚙️ Installation
 
 ### Requirements
-
+- VirtualBox (https://www.virtualbox.org/wiki/Downloads)
+- Kali Linux OS Image (https://www.kali.org/get-kali/#kali-installer-images)
 - Python 3.6+
 - Linux environment (tested on Kali Linux)
 - Tools that must be installed beforehand (if not present, the scanner will skip their scans):
