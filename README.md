@@ -15,7 +15,8 @@
 
 # 🗂 File Structure of the VulnScan Program   
 
-- 2567-2-cs403-final-submission-67-1_32_wlr-r1/
+```
+ 2567-2-cs403-final-submission-67-1_32_wlr-r1/
 ├── demo
 |   └── 67-2_CS403_67-1_32_wlr-r1_demo.mp4 # Demonstrating the installation of the tool
 ├── final_reports
@@ -26,6 +27,7 @@
 |   └── logo.png
 ├── README.md # Project documentation
 └── scanner.py # Main script to perform vulnerability scans
+```
 
 ---
 
